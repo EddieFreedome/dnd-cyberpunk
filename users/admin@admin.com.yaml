@@ -2,3 +2,7 @@ name: admin
 super: true
 id: 4038a8e4-ea00-4894-9ace-7786cf8a214d
 password_hash: $2y$10$D.lGSblCEcAOZuh72KpBCectVJNpECb0pQEb4/.lS8MlKfUAvraha
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
